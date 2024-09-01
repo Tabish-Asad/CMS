@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CMS/static/css/main.f855e6bc.css",
+    "main.js": "/CMS/static/js/main.9eb712b7.js",
+    "static/js/592.7f72a991.chunk.js": "/CMS/static/js/592.7f72a991.chunk.js",
+    "static/media/logo.svg": "/CMS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CMS/index.html",
+    "main.f855e6bc.css.map": "/CMS/static/css/main.f855e6bc.css.map",
+    "main.9eb712b7.js.map": "/CMS/static/js/main.9eb712b7.js.map",
+    "592.7f72a991.chunk.js.map": "/CMS/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9eb712b7.js"
+  ]
+}
